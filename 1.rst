@@ -1,0 +1,10 @@
+code and topics are in branches
+===============================
+
+.. note:: structure of this repo
+
+.. topic:: SQL 1
+
+      SQL 1 references to SQL Exam Part1 of OCP
+      OCP is Oracle Certification Program
+      
